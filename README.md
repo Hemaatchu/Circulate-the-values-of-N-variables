@@ -18,7 +18,7 @@ Display the result
 ### Step 6: 
 Execution
 ## Program:
-
+```
 #developed by   :S. HEMAVATHY
 #registration NO:212223230076
 
@@ -27,6 +27,7 @@ def circulate():
     n=int(input())
     l=l[n:]+l[:n]
     print("After circulating the values are:",l)
+```
 ## Output:
 ![output circulate](https://github.com/Hemaatchu/Circulate-the-values-of-N-variables/assets/147328300/b6570493-d15f-479f-b7ed-a2187c1cdaea)
 
